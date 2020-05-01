@@ -2,7 +2,7 @@
 
 This is the first file in this repo.
 
-##Ipsum Below
+##Website Context
 
 You can query/set/replace/unset options with this command. The name is actually the section and the key separated by a dot, and the value will be escaped.
 
